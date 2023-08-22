@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Net6_PostgreSQL", "WebApi_Net6_PostgreSQL.csproj", "{FDB65048-35DD-4177-B497-3372EF8E765E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB65048-35DD-4177-B497-3372EF8E765E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB65048-35DD-4177-B497-3372EF8E765E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB65048-35DD-4177-B497-3372EF8E765E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB65048-35DD-4177-B497-3372EF8E765E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C21DBF-AF02-467D-B575-E72FF804A3AC}
+	EndGlobalSection
+EndGlobal
